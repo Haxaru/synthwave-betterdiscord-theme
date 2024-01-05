@@ -10,7 +10,7 @@ To use this theme:
 
 1. **Download the modified Discord:** You'll need to download the modified Discord from [here](https://betterdiscord.app/).
 2. **Install the Theme:**
-   - To install my theme, go [here](/).
+   - To install my theme, go [here](https://github.com/Haxaru/synthwave-betterdiscord-theme/releases/tag/theme).
 3. **Explore Other Themes:**
 
    - Check out other themes available [here](https://betterdiscord.app/themes).
